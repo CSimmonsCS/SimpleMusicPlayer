@@ -1,7 +1,10 @@
 ## SimpleMusicPlayer
 
 
-#A simple music player that plays "Cudi Montage" by KIDSSEEGHOSTS built in Android Studio with Java  
+<img width="401" alt="screenshot 2018-09-03 19 14 10" src="https://user-images.githubusercontent.com/18220743/45007421-81b59280-afb2-11e8-9b60-a43a9a028cf1.png">
+
+
+# A simple music player that plays "Cudi Montage" by KIDSSEEGHOSTS built in Android Studio with Java  
  
 //CODED BY CHRISTIAN SIMMONS  
 IDE: ANDROID STUDIO  
